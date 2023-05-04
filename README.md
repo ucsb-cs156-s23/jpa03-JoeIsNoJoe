@@ -1,9 +1,6 @@
+# STARTER-jpa03
+
 Running at: https://jpa03-joeisnojoe.dokku-05.cs.ucsb.edu/
-
-Then remove this TODO item.
-```
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
